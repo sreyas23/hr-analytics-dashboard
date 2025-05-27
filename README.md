@@ -33,6 +33,9 @@ This dashboard brings together employee data into one interactive view, helping 
    - Overlay goals on time-series to measure progress
 
 ---
+### 📸 Dashboard Preview
+
+![HR Analytics Dashboard](assets/dashboard.png)
 
 ## 🛠 Technologies & Tools
 
