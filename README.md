@@ -70,8 +70,7 @@ This dashboard brings together employee data into one interactive view, helping 
 
 ## 📹 Demo Video
 
-Watch the dashboard in action:  
-[![Dashboard Demo](https://path.to/thumbnail.jpg)](VID_20230326144722.mp4)
+[**🔎 Explore the HR Analytics Dashboard Repo**](https://github.com/sreyas23/hr-analytics-dashboard)
 
 ---
 
