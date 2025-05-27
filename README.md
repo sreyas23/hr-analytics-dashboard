@@ -35,7 +35,7 @@ This dashboard brings together employee data into one interactive view, helping 
 ---
 ### 📸 Dashboard Preview
 
-![HR Analytics Dashboard](assets/dashboard.png)
+![HR Analytics Dashboard](hr-analytics-dashboard/HR Dashboard _sreya.png)
 
 ## 🛠 Technologies & Tools
 
